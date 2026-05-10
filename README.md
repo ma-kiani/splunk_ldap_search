@@ -3,10 +3,7 @@
 
 
 
-
-<img width="464" height="273" alt="ldap_search_app_view" src="https://github.com/user-attachments/assets/86836b0c-d31a-4e5e-b251-023837268b80" />
-
-
+<img width="928" height="546" alt="ldap_search_app_view" src="https://github.com/user-attachments/assets/6812c6f5-f89a-432c-912a-fa2cbf57a822" />
 
 
 
